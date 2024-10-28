@@ -1,0 +1,8 @@
+*.env
+.env.sample
+.env.*
+*.tsbuildinfo
+.npm
+/node_modules
+./dist
+/.vscode
